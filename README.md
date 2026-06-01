@@ -104,3 +104,5 @@ Contributions welcome! Please open an issue or PR.
 ## License
 
 [MIT](LICENSE)
+
+<!-- history: 2026-06-01 -->
